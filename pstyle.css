@@ -27,6 +27,7 @@ table{
     width: auto;
     height: auto;   
     border-color: rgb(93, 93, 93);
+    padding: 25px 25px 25px 25px;
 }
 td{
     border: 0.5px solid;
